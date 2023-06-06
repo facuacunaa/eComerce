@@ -1,0 +1,47 @@
+[
+	{
+		"nombre": "Mesa",
+		"description": "Mesa industrial ",
+		"price": 10,
+		"thumbnail": "ruta/de/imagen.jpg",
+		"code": "ABC123",
+		"stock": 50,
+		"id": 1
+	},
+	{
+		"nombre": "Silla",
+		"description": "silla industrial ",
+		"price": 6,
+		"thumbnail": "ruta/de/imagen.jpg",
+		"code": "ABC124",
+		"stock": 80,
+		"id": 2
+	},
+	{
+		"nombre": "mesa de jardin",
+		"description": "Mesa de jardin de acero ",
+		"price": 9,
+		"thumbnail": "ruta/de/imagen.jpg",
+		"code": "ABC125",
+		"stock": 40,
+		"id": 3
+	},
+	{
+		"nombre": "mesada",
+		"description": "mesa de algarrobo ",
+		"price": 7,
+		"thumbnail": "ruta/de/imagen.jpg",
+		"code": "ABC126",
+		"stock": 50,
+		"id": 4
+	},
+	{
+		"nombre": "mesa ratona",
+		"description": "Mesa ratona para living ",
+		"price": 5,
+		"thumbnail": "ruta/de/imagen.jpg",
+		"code": "ABC127",
+		"stock": 50,
+		"id": 5
+	}
+]
