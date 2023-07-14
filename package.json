@@ -1,4 +1,5 @@
-{
+
+<<<<<<< HEAD
   "name": "practicaintegradoracursobackend",
   "version": "1.0.0",
   "description": "",
@@ -17,5 +18,9 @@
     "express-handlebars": "^6.0.7",
     "mongodb": "^5.7.0",
     "mongoose": "^6.11.3"
+=======
+  "dependencies": {
+    "express": "^4.18.2"
+>>>>>>> af4a540d5f28bc81e948b5b8e68165224f76a784
   }
 }
